@@ -1,3 +1,7 @@
 export default function Page() {
-  return <h1>NEURA COP Test</h1>;
+  return (
+    <main style={{ padding: 40 }}>
+      <h1>NEURA COP is running on Catalyst 🚀</h1>
+    </main>
+  );
 }
